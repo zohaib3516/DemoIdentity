@@ -1,0 +1,4 @@
+# DemoIdentity
+Core
+Identity
+Dapper
